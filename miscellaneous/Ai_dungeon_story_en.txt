@@ -1,0 +1,384 @@
+
+Home
+
+Kedar is a world of dragons, demons, and monsters. These dark creatures constantly war for control of the land, leaving the few human kingdoms in the shadow of a dark and powerful force. But now, the kingdoms of man are fighting back, slowly assembling an army to reclaim their world.
+
+You are Vlamir, a male sorcerer in the world of Kedar. You live in Alsak, a city in the kingdom of Kense. You've spent most of your life training to be a powerful mage and have recently finished your training. You have been told to report to the garrison near the edge of the city to await further orders.
+As you walk through the city, you are amazed at all the throngs of people.
+
+> You look around yourself and your belongings to get a list of all the equipment you can use.
+Battle-mage armor:
+Iridescent, silver mailshirt with incredibly long, iridescent silver trousers; metal bracers with silver gauntlet boots.
+
+> You now you decided to check how much money you have.
+Remarkable, a gold piece.
+You have no food. You have water. You have a dagger. You have a shortsword. You have a stack of common clothings. You have an explorer's kit.
+
+> You was interested in your explorer kit and decided to take a closer look at it to find out how best to apply it.
+The explorer's kit contains a metal ring, a leather pouch, a small amount of information and a few trade goods.
+You take the ring out of the kit and put it on your finger.
+
+> You the properties of this ring were amazing and when you put it on your finger, you immediately realized what a valuable treasure you possessed. This ring gave you new opportunities.
+A portal opens up in the sky, blocking out the sun. A strange figure appears in it.
+You run towards the figure, realizing that he is in fact a demon.
+
+> You tell this demon from the portal: you need to be transported to the top of the mountain, help you and you will give you a gold coin for this.
+The demon looks at you and laughs. "A gold coin? Ha ha ha! Fool!"
+You turn around and see the demon closing the portal.
+Great, you've just lost a precious opportunity.
+
+> You look around to find your way to the garrison and get a new assignment there.
+You find a sturdy, well-made horse. It seems to be well-trained for a Kedar horse.
+You put on the armor. It fits you perfectly.
+
+> You mount your horse and ride towards the garrison.
+As you approach the city gates, a guard approaches you.
+"Where are you from?" he asks.
+"Al-abara," you say- a kingdom far to the south.
+"Who are you?"
+
+> You was told to report to the garrison on the outskirts of the city to await distant orders. Can you point you in the right direction?
+The guard nods and you continue riding. It is only a few hours later when you approach the garrison that you understand why it was so important to keep the city safe.
+
+> You entering the garrison building, you turned to the girl at the reception to find out a new order.
+"Good luck, citizen. I hope they put you on the front lines."
+The girl smiles at you. She has pretty, green eyes.
+"Thank you, sir."
+
+> You i'm talking to the girl. You have a beautiful smile and lovely green eyes. Can you help you find a place to sign up for the front line?
+The girl turns and walks away without looking back.
+I am Kedar an I must report to the barracks to await orders.
+Your order is accepted, citizen. Have a nice day.
+
+> You looked around and took everything that you found suitable for combat and defence.
+You look for a corner in the barracks that you can hide in. You find a small, but comfortable corner in a row of beds.
+Using my stealth skill, I hid in a secluded corner to wait and see what happens next. Soon I heard footsteps and arguing voices. A man and a woman entered the barracks and, without noticing me, began to speak loudly.
+"It is not my fault, Sesisek!" the woman shouted. "You should have returned my letters! You promised to return to me!"
+"I have many duties, Warina."
+"Lies! You've been seeing her again, haven't you? You're still seeing her and that's why you can't return my letters or even meet with me!"
+"Please, stop this. You have to believe me."
+"Oh, I believe you," Warina says bitterly. "I believe you know where my father has taken your daughter."
+The woman's voice becomes quiet and cold as she begins to cry.
+"S... Stop it! Stop it!" she cries. "Don't make me listen to anymore of your cruel words!"
+The woman leaves the room quickly and the man sighs.
+"So, she's gone. No point in hiding it. Might as well come out, now."
+
+> You say "I beg your pardon Sir Sesisek for being an accidental witness to your dispute. I arrived here recently and was sent to this garrison to help you. I overheard your conversation about letters and the missing girl. To make amends for the fact that I accidentally found out your secret, I can offer my help in finding your loss. Tell me what should I do?"
+"Most kind of you, I'm sure. You see, Warina and I... Oh... Look, I don't know what you know, but what you should do is leave this place."
+"Sir?"
+"Your presence is known. If my daughter's disappearance isn't uncovered then yours certainly will be. And then you'll be in even more trouble than you are now."
+
+> You say "Thank you Sir. I am leaving this place. Remember, you can always count on my help. My name is Sir Vlamir. I am at your service."
+"Good luck out there, Vl... I mean Sir Vlamir."
+You leave the barracks with the clothing you stole and go into the streets of Sinkhole.
+
+> You when you reached Sinkhole Street, you looked around to find a tavern. you urgently wanted to flush your throat and think it over.
+You soon find yourself in a tavern with a lot of people. The place is fairly loud.
+
+> You looked around for an empty seat where you could sit down and order.
+You take a seat at a table where a man sits with two different-colored eyes.
+"What?" the man asks.
+"Uh, nothing," you reply, returning to reading your book.
+
+> You say "I see that you are an experienced person, let me pay for your drink and ask a few questions."
+"Is this seat taken?" you ask, offering your hand to the man.
+"It's reserved for people with money, sir. Sorry," he replies, waving you away.
+
+> You check the amount of money.
+You have in gold coins. You have given away all the valuables that you own to your family.
+You may need to steal a few bags.
+
+> You заказать жаркое с овощами и стакан вина у бармена.
+You order the drink. The bartender nods, and quickly begins mixing the drink using condiments and an assortment of strange fruits.
+
+> You have a drink served and ask the bartender for a room for three days.
+"This ale is disgusting!" you say, throwing your cup down and leaving the bar.
+A blue-haired woman walks up to you with a frown.
+"What do you want?" you ask angrily.
+"Do you have any actual money?" she asks.
+"What do you want it for?"
+"I want to buy a room from you."
+"For how much?"
+"Five platinum coins."
+
+> You say "Five silver coins for one night."
+The woman nods.
+"Fine, fine," you say.
+You enter the room, which has two bunks. You lay down on one of the bunks and fall asleep.
+When I woke up in the morning, I noticed a blue-haired woman lying next to me. Looks like she warmed my bunk all night.
+"Good evening," she says grumpily, not looking at all happy to see me.
+"Good evening," you reply, rubbing your head. "What's your name?"
+"Lena."
+
+> You say "Thank you Lena for your warmth. Tidy yourself up, while I'll make us breakfast."
+You stand up from the bunk, and walk over to Lena who is quickly finishing herself up. You throw a dirty rag at her, which she catches and uses to clean herself.
+"What are you doing?"
+
+> You say "How much is this rag worth?"
+"Nothing."
+You sigh, and begin to gather the bowls and spoons from the table. You take them back to the kitchen, where you begin to get cooking.
+Having prepared a delicious breakfast for real gourmets, I set the table for two. For myself and for Lena. At such a delicious breakfast, she will tell everything about herself.
+"You sit there," you say, pointing at the table.
+"You... do you know who I am?" Lena asks.
+"I saw you kill a dragon."
+"That was you?"
+"Yes."
+"But... why?"
+You sigh, and sit down at the table.
+"My name is Vlamir. I am The Black Emperor, and I have been betrayed."
+You tell Lena about how you came to be the ruler of this nation, and of the seven nations you once ruled. You explain that twenty-two years ago, your nation was destroyed by a terrible magic event. The Emperor was killed in the assault, and you barely survived. Now, you are alone in the world, with only your loyal gryphon serving as company.
+"So... where are you going?"
+
+> You say "I'm going to bring the princess back. I know that a tyrant from a neighboring country keeps it. Can you help me?"
+"Sure," Lena nods.
+"So what do you need?"
+"A horse and some armor."
+"I'll get them for you," Lena says.
+"Thanks."
+You leave Lena's home and begin to ride off. As you ride back to the city, you find yourself littered with gold coins.
+
+> You quickly put all the coins in your bag.
+You turn, and look at the coins. You realize that you are richer than the King of Kedar. You could retire from the world. Or, you could attempt to take revenge on the traitor Kresh.
+
+> You love the exact amount of your money. In total, you did it ...
+You need some armor. You enter a small store and quickly buy some chainmail, a helm, and some studded leather. You try it all on, and feel satisfied with your choice.
+
+> You using earth magic, you transform your armor into a sturdy artifact. Now, while you are wearing your magic armor, no one can destroy you.
+You leave your small house and ride on your horse towards the castle. You know it won't take you long to get there.
+When I reached my destination, I introduced myself to the guard and made an appointment with the owners of the castle. I was given a room in the barracks and lunch in the general garrison canteen. Then I went to the garrison officer to get further instructions.
+I was told that I should speak with Captain Eckers, the officer in charge of the airborne forces. So, I entered a nearby door marked 'aerospace'.
+
+> You say "Captain Eckers! The sorcerer Vlamir has arrived at your disposal. I look forward to your further orders!"
+Several officers turn to look at you. One stands out, a stern but well-dressed man with a light stubble of dark facial hair. You quickly recognize the captain as Kresh. His face looks grim and tired, but a faint smile twists his lips.
+
+> You stand at attention and wait for the order.
+Kresh makes a short, angry noise, then waves you over.
+"Yes, sir," you answer, standing at attention.
+"At ease," Kresh relents.
+
+> You continue to stand still. Look at Captain Kresh and wait for his orders.
+"At ease," Kresh relents, "So Vlamir. You are the newest member of our glorious Empire, I trust you have received our generous compensation package?"
+"Yes, sir."
+"Hmm... well, you'll do. Come with me."
+You follow Kresh along the hallways. Eventually you reach an elevator.
+"This way." Kresh points over your shoulder, back the way you came. "The Blacksmith has requested you for work. I myself have a task for you as well."
+
+> You say "Sir! I will do everything you order. Sir!"
+Kresh sighs.
+"Hmph. I had heard that you were a fool, but I thought perhaps you were just too stupid to be a traitor," Kresh says,
+
+> You say "Sir! Yes, sir!"
+The elevator reaches the bottom of the elevator and the doors open. Kresh walks ahead of you through a long passleway until you reach a large metal door with several locks that required a special key to open. Kresh approaches the door, draws his pistol, shoots a lock and cranks the door open.
+Kresh steps through and you follow him into a large office with a desk and several bookshelves. There is a man in the desk. He wears purple and yellow robes with a golden dragon sewn on them. Roldolf the Relentless.
+"Roldolf, the Empire requires your services," Kresh says.
+"Anything for the Empire," Roldolf says with a bow.
+"The Empire requires that you find the Blacksmith," Kresh says, "He has betrayed the Emperor and fled with his army."
+"I had already gathered that much."
+I opened my magic book and drew the words for a new fire spell.
+"So you have the scroll. Good, we can finish this fight quickly then," Roldolf says.
+With the words "Everything for the Empire", I bow down to hand my magic scroll "Lava Field" into Rudolph's hands.
+"Excellent, now this mission will be... fun," Roldolf grins.
+We begin to march through the hills to where I assume the Emperor's horde is camped out.
+"So, Kresh," Roldolf says. "You're a great warrior and all, but you know the Eternal's magic is much stronger than your own."
+"I'd like to see it."
+"You pig-boy. You think you can just walk into my home and face me?"
+"I do not fear your threats."
+
+> You say "Well enough is enough! We must go camping if we want to reach our goal. Your dispute now can only harm us and lead to defeat. I give you all my help. You are entitled to receive my protection!"
+"You've backed the wrong horse, friend," Kresh says.
+Roldolf's eyes widen.
+"What did you say?" he asks.
+Kresh shrugs.
+"The Emperor had been killed. We knew we'd lost. I just wanted to try and save some of the Empire's treasures while we had the chance. I can't believe I was so weak. My brother..." he says, drifting off.
+"Your brother? What happened to him?" you ask.
+"He joined the enemy. He's fighting the Emperor now, along with the rest of our father's old comrades. We'll never see them again."
+Roldolf snorts.
+"If he thinks that'll win him our father's love, he's sadly mistaken," Roldolf says. "But you still shouldn't have done what you did. You've turned traitor and joined the enemy."
+
+> You say "Roldolf, what are you willing to give me to atone for your guilt?"
+Roldolf snorts at your offer.
+"What are you proposing?" he asks.
+
+> You say "You must know the weaknesses of your past allies. If you are truly ready to join the ranks of the Emperor's army..."
+"I'm sorry, you must be mistaken. I am loyal to the Empire."
+"Really? Then why did you destroy the Eternal Dominion?"
+"It was an irresponsible mistake."
+
+> You say "I'm glad you understand that yourself. Any mistake other than death can be corrected if you are not weak in spirit. Ethernal Dominion comes at a hefty price tag. The question is whether you have enough strength and honor to pay so much to atone for your guilt."
+Roldolf is silent.
+"We're nearly there," he says quietly.
+The trees open up into a vista of hills and valleys, a battlefield-ridden glen, with mountains beyond. At the center of this chaos is a massive wooden structure, half pyramid and half fortress. It's tall spires reach into the sky while it's lower floors have been built into a steep hill for defense.
+
+> You say "Yes, you know how to surprise."
+Roldolf laughs bitterly.
+"Yes... yes, I'm sure this ISN'T what he had planned."
+His face twists into a mask of rage.
+"That lying bastard," he hisses.
+Suddenly, a portal opens up and you are hit by a powerful gust of wind. You tumble out, hitting the ground with a thud.
+
+> You in response, activate your own ring with a hidden demon inside.
+Wasting no time, you channel your magical energy into the ring, willing the demon to bust out and wreak havoc. You activate other rings as well.
+A portal opens up not too far away.
+
+> You say "Demons! Sow chaos and destruction! You have half an hour for all the entertainment! I want to see it!"
+Kirzak stands atop a mountain of corpses, laughing. He channels more power into his staff, green flames begin to flicker along its length.
+
+> You say "Demons! Raise an army of the dead! It will be a fun night!"
+With a dark laugh, he turns and throws his head back, drinking in the cheers and adoration of his subjects.
+"The Empire has fallen!" he bellows. "The Eternal Dominion has won!"
+
+> You aim exactly between Kirzak's eyes and you knock out his brain with a powerful shot. His triumph did not last long.
+Your aim is precise, you knock out the brain of the ruthless warmaster. His face twists in pain and he falls. You are about to get up and walk over to him when several musket balls fly at you from the top of the battlements.
+They bounce off your armored form as if you were made of butter.
+
+> You say "Hell! It was close!"
+With this, you get up and walk over to the Emperor. You look down at him and a black aura manifests around your body.
+
+> You say "Long life, your majesty! Glad that heaven has given a chance to help your majesty!"
+You put your face next to the Emperor's ear and speak softly.
+"Emperor, the demons have launched a full-scale invasion of the kingdom. They will not stop. Send reinforcements now and hold the line."
+The Emperor nods.
+"My son, I thank you for this information and I shall take it under consideration."
+You nod in turn.
+
+> You bow to the Emperor and return to your horse.
+You jump on your horse and ride out of the city towards the mountain range. You have to warn your comrades there! After about a half of hour, you get to where you're supposed to be.
+On the way, I rode and thought about how we better find the daughter of the emperor. After all, probably the only thing that can stop a demon army is an Eternal with magical powers.
+Yep, that's what we'll do.
+No doubt about it!
+It's time to revise your inventory and distribute skills to become stronger this time.
+You grab an iron sword you found on the floor of your tent. Eh, not bad.
+The next thing you notice is your reflection in the blade. You almost laugh at what you see. You're a young man with light brown hair and eyes. But you're a young man no longer, you've had it with war and bloodshed. You've had your fill of it.
+Until now, you were content on hiding in the corner and letting others do all the fighting. But if the demons are to be stopped, you need to be more proactive.
+I started pumping currents of mental energy to my head, creating something like a shield around. Y'know, I coulda done this all along if I'd just tried. But no, I had to hide and play things carefully.
+And that's exactly what I'm doing now.
+
+> You say "It looks like I won't be able to get the rabbit out of the hat this time. The main thing is that it is not a snake."
+As you ponder your situation further, an Imperial soldier addresses you.
+"Sir, orders have just come in. We're being reinforced by a full battalion, we'll be taking those enemy warriors head on."
+
+> You say "I love the smell of fresh napalm in the morning! Forward fighter! The Emperor wants us to die, taking as many enemies with us as possible!"
+You charge forward, your sword held high. Demons howl in pain as you swing your blade, cutting down all those near you.
+After a few hours the battle was over, in which part of the battlefield I found it was difficult to determine. I looked around myself. Most of the men I was traveling with were dead, but it didn't matter. We had won.
+We had survived another day, and that was what counted.
+
+> You say "Praise to heaven!"
+You sit on a rock and rest your weary bones. You look around yourself.
+You are in the remains of a small village.
+
+> You go to camp to rest and recuperate.
+You wander the countryside, desperately trying to avoid being killed in some hopeless charge. You find yourself wandering into a small village in need of help. There is a loudly shouting man dying on the ground in front of your tent.
+
+> You to direct the last crumbs of healing energy to the dying person in happiness to try to heal him.
+You channel the last of your energy, which could have been used more productively elsewhere, into the dying man. It is enough to bring him back from the dead. He stands up and gives you a huge hug.
+
+> You say "Praise heaven friend! Today is your second birthday!"
+"Thank you friend!" The man happily says as he takes his now healed sword from where it was lying and begins to wander aimlessly about the village.
+"I don't know what would have happened without you."
+He doesn't hear you, he is too entranced by the sword. You realize that he must be a soldier, without one of his soldiers nobody would have healed him in time.
+
+> You say "Go in peace!"
+You wave to your new friend as he wanders into a cottage and close the tent flaps. You are exhausted and head for bed.
+
+> You go to bed until morning, or at least until they wake you up!
+Acorns fall and hit the ground around you. They pierce your ears, your nose, your eyes. The pain causes you to awake with a start.
+"Hey! Watch it!"
+
+> You say "Silly squirrels!"
+Squirrels chatter all around you. A few jump up and grab nuts from the oak trees above you.
+You relax and decide to sleep some more.
+----
+With a start, you awaken.
+
+> You open the door and shout into the darkness "Hey, daughter of Kedar! Are you here?"
+You slowly open the door. The darkness is oppressive; you expect something to attack you, but fortunately you find nothing. You step out into the cold desert night.
+
+> You open the next door and shout into the darkness "Hey, daughter of Kedar! Are you here?"
+A small campfire is the only light in an otherwise pitch black desert. You see the outline of a figure sitting by the fire.
+You walk over to the figure.
+"Are you Murk?"
+The figure slowly turns towards you and you find yourself staring at the face of a woman, though one that is much older than you. Her face is withered and her eyes are covered by an ornamental helmet. She is dressed in mail armor.
+Her voice is weak but surprisingly strong for a woman of her age "I am Murk, and who are you?"
+Her voice causes the cold to penetrate your bones.
+
+> You say "I am Vlamir. I need Kedar's daughter. Urgently. Call her."
+"I'm sorry, but I don't understand. Could you start again?"
+You look around and realize that you're in the middle of nowhere.
+
+> You say "Open the next door and shout into the darkness "Hey, daughter of Kedar! Are you here?"
+You see a wooden door in the distance. As you walk towards it, you are overcome by a feeling of dread that seems to have infected the entire nation.
+Why had this happened now?
+You approach the door and notice a heavy iron bolt has been placed across the door, with an iron bar securing the bolt in place.
+"What is this?!"
+"It's a door."
+
+> You say "I am Vlamir. I need Kedar's daughter. Urgently. Call her."
+You can't believe what you're about to do. You've never been one to flirt or ask for help lightly, but you're struggling to remember why as you approach the door.
+
+> You say "Open the next door and shout into the darkness "Hey, daughter of Kedar! Are you here?"
+You shout into the darkness, but there is no answer. You are about to give up when you hear a faint whisper drifting from the next door.
+"Vlamir? Is that you?"
+"Yes."
+
+> You say "I am Vlamir. I need Kedar's daughter. Urgently."
+The door opens.
+"I can't go."
+You see the face of a very young girl, perhaps even younger than yourself. You'd be surprised if she wasn't a teenager.
+
+> You say "Are you Kedar's daughter?"
+"Yes."
+"Then please, can you..."
+"No."
+The girl shuts the door firmly in your face.
+"NO!" you shout.
+
+> You say "Your mother find for you. You should go with me."
+You slump to the ground and wipe away a solitary tear rolling down your cheek.
+"Murk... I'm sorry I couldn't save you."
+
+> You open next door and shout into the darkness "Hey, daughter of Kedar! Are you here?
+You open the door and shine your light inside.
+She stands there, leaning against the door frame. She looks down at the floor, her helmet as ornamental as her eyes.
+
+> You say "Baby come with me! I will take you to my dad and give you a delicious candy!"
+"No."
+"Please, I will give you..."
+You retreat to the door and sit down. How could you possibly convince her?
+
+> You open the next door and shout into the darkness: "Hey, daughter of Kedar! What do you need to bring you home with me to your father?"
+"A truce."
+You're not sure you quite understand her. "A truce?"
+"Yes. I want to end the fighting between our kingdoms and become allies."
+"That's impossible," you reply.
+
+> You open the next door and shout into the darkness: "Hey, daughter of Kedar! I declare a truce between our countries for three days. Now you can return home to your father! Let's go soon!"
+The princess looks at you and smiles. "Very well."
+"Okay then," you say. "I want to take you home with me so that we can talk in private."
+
+> You return to King Kedar and return his daughter to him.
+You return to the castle gates with one of the king's soldiers, and ask to see the king. A few moments later, you find the king sitting on his throne.
+
+> You show the king his daughter and say "Here is your daughter. She is back!"
+The king stands, and smiles. "Thank you, V.D. I'll be sure to take good care of her."
+"I know you will," you reply. "Now I must return to the school."
+
+> You say "King Kedar, what else can we do for you?"
+For the second time today, you're back in the royal castle of Kedar. This time, the king asks you to continue your schooling.
+
+> You say "What do I need to do to continue my studies?"
+"The royal mages have decided that your powers are too great to keep you back in class for much longer. You'd be much better served by continuing your training with them."
+
+> You say "I want to continue training with them! Which one of them is better to contact?"
+The king replies that the assistant headmaster Evan will train you, but he should probably start preparing you to meet him since classes won't start for a few more days.
+
+> You you're going to Assistant Director Evan for training.
+You walk into the assistant director's office to find it completely empty. You figure that he must be some place a little more private.
+
+> You open the next door and call out, "Assistant headmaster Evan, we're here for training!"
+A voice calls back from one of the rooms, "Come in!"
+You confidently walk into the room to find the headmaster sitting in a chair looking tired.
+
+> You say "Long life, headmaster! We came here by order of the king, for training with your assistant Evan!"
+The headmaster responds, "Ah, of course. Please, take a seat."
+You do so as he stands up. He stares at you for a moment as if trying to see what's in your heart.
+Suddenly, the assistant headmaster walks in. "Ah, you're here," he says quickly.
